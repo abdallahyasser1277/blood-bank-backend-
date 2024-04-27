@@ -17,7 +17,7 @@ Models
 5.	camp
 
 
-Admin
+#Admin
 
 admin Model
 Variable Name 	Data Type	Description
@@ -51,7 +51,7 @@ Json format if login with wrong data admin
 
 
 
-Donor
+#Donor
 
 Donor Model
 Variable name	Data Type	Description
@@ -93,7 +93,7 @@ Delete Response
 {
     "message": "success"
 }
-Recipient
+#Recipient
 Recipient Model
 Variable name	Data Type	Description
 id	string	The unique identifier by which to identify the mongoDB
@@ -134,7 +134,7 @@ Delete Response
 {
     "message": "success"
 }
-Camp
+#Camp
 Camp Model
 Variable name	Data Type	Description
 id	string	The unique identifier by which to identify the mongoDB
@@ -168,7 +168,7 @@ Delete Response
 }
 
 
-Contactor
+#Contactor
 Contactor Model
 Variable name	Data Type	Description
 id	string	The unique identifier by which to identify the mongoDB
