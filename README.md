@@ -1,18 +1,18 @@
-#### Blood Bank (backend)
-# About
+# Blood Bank (backend)
+## About
 The Blood Bank Backend API is a crucial component of a web-based blood bank management system. This project is designed to streamline and automate the processes involved in blood donation, blood requests, and camp organization. Developed using Spring Boot and MongoDB, the backend provides a robust and scalable foundation for managing various entities such as admins, donors, recipients, camps, and contactors.
 
-# Key Features
--Admin Authentication: Secure login for administrators to manage the system efficiently.
--Donor Management: Allows CRUD operations (Create, Read, Update, Delete) for donors, helping in maintaining an updated database of potential blood donors.
--Recipient Management: Enables managing the information of blood recipients, ensuring timely and accurate data for those in need of blood.
--Camp Organization: Facilitates the creation and management of blood donation camps, including detailed location information to enhance accessibility.
--Contact Management: Handles inquiries and communications from potential donors and recipients, ensuring smooth and responsive communication.
-# Technology Stack
+## Key Features
+    Admin Authentication: Secure login for administrators to manage the system efficiently.
+    Donor Management: Allows CRUD operations (Create, Read, Update, Delete) for donors, helping in maintaining an updated database of potential blood donors.
+    Recipient Management: Enables managing the information of blood recipients, ensuring timely and accurate data for those in need of blood.
+    Camp Organization: Facilitates the creation and management of blood donation camps, including detailed location information to enhance accessibility.
+    Contact Management: Handles inquiries and communications from potential donors and recipients, ensuring smooth and responsive communication.
+## Technology Stack
 -Spring Boot: A powerful, production-ready framework used for building Java-based applications, known for its speed, simplicity, and ease of development.
 -MongoDB: A NoSQL database chosen for its flexibility and scalability, ideal for handling the complex and dynamic data structures in the system.
 -IntelliJ IDEA: The development environment used for writing and maintaining the code, offering advanced tools and features that boost productivity and code quality.
-# Project Goals
+## Project Goals
 -Efficiency: Automate routine tasks involved in managing a blood bank, reducing the manual workload and minimizing errors.
 -Scalability: Ensure the system can handle a growing number of users and data, adapting seamlessly to increasing demands.
 -Accessibility: Provide easy access to information and services for donors, recipients, and administrators, promoting community engagement and support.
