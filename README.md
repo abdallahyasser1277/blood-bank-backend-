@@ -1,4 +1,4 @@
-# blood-bank-backend-
+# Blood Bank (backend)
 the auther is only me.
 this is back end of blood bank web project.
 code writen by intellij idea using spring boot and mongo db.
